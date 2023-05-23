@@ -1,1 +1,1 @@
-# Test-Detect-from-Image
+# Text-Detect-from-Image
